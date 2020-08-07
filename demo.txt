@@ -1,2 +1,3 @@
 Hello I am a new document for test.
+I am facing some changes, meanwhile my owner try to learn git.
 And my owner is Leonardo.
